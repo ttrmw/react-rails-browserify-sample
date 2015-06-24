@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'react-rails', '~> 1.0.0'
+gem 'browserify-rails', '~> 1.0.1'
