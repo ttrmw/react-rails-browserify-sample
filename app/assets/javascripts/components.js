@@ -3,3 +3,4 @@
 //
 
 React    = require('react');
+Widgets  = require('./components/Widgets.jsx');
